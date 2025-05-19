@@ -447,7 +447,7 @@ export default function Fifth_SP() {
           
         
         </div>
-
+<p>Owned and Operated By KM Brands Incorporated</p>
 <p>G2 Licensed Agent : Jessica Johanna Rodriguez</p>
         {/* <p>{zipCode} </p> */}
       </div>
